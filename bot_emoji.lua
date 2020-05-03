@@ -1401,6 +1401,7 @@ local emojiNameToCode = {
 	gay_pride_flag = "\xF0\x9F\x8F\xB3\xEF\xB8\x8F\xE2\x80\x8D\xF0\x9F\x8C\x88",
 	bone = "\xF0\x9F\xA6\xB4",
 	face_vomiting = "\xF0\x9F\xA4\xAE",
+	female_sign = "\xE2\x99\x80\xEF\xB8\x8F",
 }
 
 Bot.EmojiNameToCode = emojiNameToCode
