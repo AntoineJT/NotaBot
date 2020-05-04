@@ -1404,6 +1404,7 @@ local emojiNameToCode = {
 	female_sign = "\xE2\x99\x80\xEF\xB8\x8F",
 	male_sign = "\xE2\x99\x82\xEF\xB8\x8F",
 	axe = "\xF0\x9F\xAA\x93",
+	salt = "\xF0\x9F\xA7\x82",
 }
 
 Bot.EmojiNameToCode = emojiNameToCode
